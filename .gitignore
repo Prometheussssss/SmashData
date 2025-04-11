@@ -2,7 +2,7 @@
 *.docx
 
 # Ignore .csv files
-*.csv
+
 
 # Ignore all folders
 */
